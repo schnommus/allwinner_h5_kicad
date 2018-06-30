@@ -1,0 +1,242 @@
+Pin/Signal Name,Description,Type
+DRAM,,
+SDQ[31:0],DRAM Bidirectional Data Line to the Memory Device,I/O
+SDQS[3:0],DRAM Active-High Bidirectional Data Strobes to the Memory Device,I/O
+SDQSB[3:0],DRAM Active-Low Bidirectional Data Strobes to the Memory Device,I/O
+SDQM[3:0],DRAM Data Mask Signal to the Memory Device,O
+SCK,DRAM Active-High Clock Signal to the Memory Device,O
+SCKB,DRAM Active-Low Clock Signal to the Memory Device,O
+SCKE[1:0],DRAM Clock Enable Signal to the Memory Device for Two Chip Select,O
+SA[15:0],DRAM Address Signal to the Memory Device,O
+SWE,DRAM Write Enable Strobe to the Memory Device,O
+SCAS,DRAM Column Address Strobe to the Memory Device,O
+SRAS,DRAM Row Address Strobe to the Memory Device,O
+SCS[1:0],DRAM Chip Select Signal to the Memory Device,O
+SBA[2:0],DRAM Bank Address Signal to the Memory Device,O
+SODT[1:0],DRAM On-Die Termination Output Signal for Two Chip Select,O
+SRST,DRAM Reset Signal to the Memory Device,O
+SZQ,DRAM ZQ Calibration,AI
+SVREF,DRAM Reference Input,P
+VCC-DRAM,DRAM Power Supply,P
+System,,
+UBOOT,UBOOT Mode Select,I
+TEST,TEST Signal,I
+NMI,Non-Maskable Interrupt,I
+RESET,Reset Signal,I/O
+JTAG-SEL0,JTAG Mode Select 0,I
+JTAG-SEL1,JTAG Mode Select 1,I
+PLL&Clock,,
+X32KFOUT,32KHz Clock Fanout,AOD
+X32KIN,Clock Input Of 32KHz Crystal,AI
+X32KOUT,Clock Output Of 32KHz Crystal,AO
+VCC-RTC,RTC Power Supply,P
+REXT,External Reference Register,AI
+RTC-VIO,Internal LDO Output Bypass,AO
+X24MFOUT,24MHz Clock Fanout,AOD
+X24MIN,Clock Input Of 24MHz Crystal,AI
+X24MOUT,Clock Output Of 24MHz Crystal,AO
+PLLTEST,PLL Test,AOD
+VCC-PLL,PLL Power Supply,P
+HDMI,,
+HTX0P,HDMI Positive TMDS Differential Line Driver Data0 Output,AO
+HTX0N,HDMI Negative TMDS Differential Line Driver Data0 Output,AO
+HTX1P,HDMI Positive TMDS Differential Line Driver Data1 Output,AO
+HTX1N,HDMI Negative TMDS Differential Line Driver Data1 Output,AO
+HTX2P,HDMI Positive TMDS Differential Line Driver Data2 Output,AO
+HTX2N,HDMI Negative TMDS Differential Line Driver Data2 Output,AO
+HTXCP,HDMI Positive TMDS Differential Line Driver Clock Output,AO
+HTXCN,HDMI Negative TMDS Differential Line Driver Clock Output,AO
+HHPD,HDMI Hot Plug Detection signal,I/O
+HCEC,HDMI Consumer Electronics Control,I/O
+HSCL,HDMI Serial Clock,O
+HSDA,HDMI Serial Data,I/O
+HVCC,HDMI Power Supply,P
+USB,,
+USB-DM0,USB DM Signal,A I/O
+USB-DP0,USB DP Signal,A I/O
+USB-DM1,USBDM Signal,A I/O
+USB-DP1,USB DP Signal,A I/O
+USB-DM2,USB DM Signal,A I/O
+USB-DP2,USB DP Signal,A I/O
+USB-DM3,USB DM Signal,A I/O
+USB-DP3,USB DP Signal,A I/O
+VCC-USB,USB Power Supply,P
+ADC,,
+KEYADC,ADC Input for KEY Application,AI
+EPHY,,
+EPHY-RXP,Transceiver Positive Output/Input,A I/O
+EPHY-RXN,Transceiver Negative Output/Input,A I/O
+EPHY-TXP,Transceiver Positive Output/Input,A I/O
+EPHY-TXN,Transceiver Negative Output/Input,A I/O
+EPHY-RTX,EPHY External Resistance to Ground,AI
+EPHY-LINK-LED,EPHY LINK Up/Down Indicator LED,O
+EPHY-SPD-LED,EPHY 10M/100M Indicator LED,O
+EPHY-VDD,3.3V Analog Power Supply for EPHY,P
+EPHY-VCC,1.1V Analog Power Supply for EPHY,P
+TV,,
+TV-OUT,TV Output,AO
+V33-TV,TV Out Power Supply,P
+Audio Codec,,
+LINEINL,LINE-IN Left Channel Input,AI
+LINEINR,LINE-IN Right Channel Input,AI
+LINEOUTL,LINE-OUT Left Channel Output,AO
+LINEOUTR,LINE-OUT Right Channel Output,AO
+MBIAS,Master Analog Microphone Bias,AO
+MICIN1N,Microphone Negative Input 1,AI
+MICIN1P,Microphone Positive Input 1,AI
+MICIN2N,Microphone Negative Input 2,AI
+MICIN2P,Microphone Positive Input 2,AI
+VRA1,Reference Voltage Output,AO
+VRA2,Reference Voltage Output,AO
+VRP,Reference Voltage Output,AO
+AVCC,Analog Power,P
+AGND,Analog GND,G
+I2S/PCM,,
+PCM0_SYNC,PCM0 Sync/I2S0 Left and Right Channel Select Clock,I/O
+PCM0_CLK,PCM0 Sample Rate Clock/I2S0 Bit Clock,I/O
+PCM0_DOUT,I2S0/PCM0 Serial Data Output,O
+PCM0_DIN,I2S0/PCM0 Serial Data Input,I
+PCM0_MCLK,I2S0/PCM0 Master Clock,O
+PCM1_SYNC,PCM1 Sync/I2S1 Left and Right Channel Select Clock,I/O
+PCM1_CLK,PCM1 Sample Rate Clock/I2S1 Bit Clock,I/O
+PCM1_DOUT,I2S1/PCM1 Serial Data Output,O
+PCM1_DIN,I2S1/PCM1 Serial Data Input,I
+OWA,,
+OWA_OUT,One Wire Audio Output,O
+SD/MMC,,
+SDC0_CMD,Command Signal for SD/TF Card,I/O
+SDC0_CLK,Clock for SD/TF Card,O
+SDC0_D[3:0],Data Input and Output for SD/TF Card,I/O
+SDC1_CMD,Command Signal for SDIO Wi-Fi,I/O
+SDC1_CLK,Clock for SDIO Wi-Fi,O
+SDC1_D[3:0],Data Input and Output for SDIO Wi-Fi,I/O
+SDC2_CMD,Command Signal for SD/eMMC,I/O
+SDC2_CLK,Clock for SD/eMMC,O
+SDC2_D[7:0],Data Input and Output for SD/eMMC,I/O
+SDC2_RST,Reset Signal for SD/eMMC,O
+NAND FLASH,,
+NAND_DQ[7:0],NAND Flash0 Data Bit [7:0],I/O
+NAND_DQS,NADN Flash Data Strobe,I/O
+NAND_WE,NAND Flash Write Enable,O
+NAND_RE,NAND Flash chip Read Enable,O
+NAND_ALE,NAND Flash Address Latch Enable,O
+NAND_CLE,NAND Command Latch Enable,O
+NAND_CE[1:0],NAND Flash Chip Select [1:0],O
+NAND_RB[1:0],NAND Flash Ready/Busy Bit,I
+Interrupt,,
+PA_EINT[21:0],GPIO A Interrupt,I
+PF_EINT[6:0],GPIO F Interrupt,I
+PG_EINT[13:0],GPIO G Interrupt,I
+S_PL_EINT[11:0],GPIO L Interrupt,I
+PWM,,
+S_PWM,Pulse Width Modulation Output,O
+PWM0,Pulse Width Modulation Output,O
+IR,,
+S_CIR_RX,Consumer IR Data Receive,I
+CSI,,
+CSI_PCLK,CSI Pixel Clock,I
+CSI_MCLK,CSI Master Clock,O
+CSI_HSYNC,CSI Horizontal SYNC,I
+CSI_VSYNC,CSI Vertical SYNC,I
+CSI_D[7:0],CSI Data bit [7:0],I
+CSI_SCK,CSI Command Serial Clock Signal,I/O
+CSI_SDA,CSI Command Serial Data Signal,I/O
+EMAC,,
+RGMII_RXD3/MII_RXD3 /RMII_NULL,RGMII/MII Receive Data,I
+RGMII_RXD2/MII_RXD2/ RMII_NULL,RGMII/MII Receive Data,I
+RGMII_RXD1/MII_RXD1/ RMII_RXD1,RGMII/MII /RMII Receive Data,I
+RGMII_RXD0/MII_RXD0/ RMII_RXD0,RGMII/MII /RMII Receive Data,I
+RGMII_RXCK/MII_RXCK/ RMII_NULL,RGMII/MII Receive Clock,I
+RGMII_RXCTL/MII_RXDV/,RGMII Receive Control/MII Receive Enable/RMII Carrier Sense-Receive,
+"",,I
+RMII_CRS_DV,Data Valid,
+RGMII_NULL/MII_RXERR/,,
+"",MII/RMII Receive Error,I
+RMII_RXER,,
+RGMII_TXD3/MII_TXD3/ RMII_NULL,RGMII/MII Transmit Data,O
+RGMII_TXD2/MII_TXD2/ RMII_NULL,RGMII/MII Transmit Data,O
+RGMII_TXD1/MII_TXD1/ RMII_TXD1,RGMII/MII /RMII Transmit Data,O
+RGMII_TXD0/MII_TXD0/ RMII_TXD0,RGMII/MII /RMII Transmit Data,O
+RGMII_NULL/MII_CRS/ RMII_NULL,MII Carrier Sense,I
+RGMII_TXCK/MII_TXCK/,"RGMII/MII /RMII Transmit Clock: Output Pin for RGMII, Input Pin for",
+"",,I/O
+RMII_TXCK,MII/RMII,
+RGMII_TXCTL/MII_TXEN/,RGMII Transmit Control/MII Transmit Enable/RMII Transmit Enable:,
+"",,I/O
+RMII_TXEN,"Output Pin for RGMII/RMII, Input Pin for MII",
+RGMII_NULL/MII_TXERR/,,
+"",MII Transmit Error,O
+RMII_NULL,,
+RGMII_CLKIN/MII_COL/,,
+"",RGMII Transmit Clock from External/MII Collision Detect,I
+RMII_NULL,,
+MDC,RGMII/MII /RMII Management Data Clock,O
+MDIO,RGMII/MII /RMII Management Data Input/Output,I/O
+Transport Stream Controller,,
+TS0_CLK,Transport Stream0 Clock,I
+TS0_ERR,Transport Stream0 Error Indicate,I
+TS0_SYNC,Transport Stream0 Sync,I
+TS0_DVLD,Transport Stream0 Valid Signal,I
+TS0_D[7:0],Transport Stream0 Data,I
+TS1_CLK,Transport Stream1 Clock,I
+TS1_ERR,Transport Stream1 Error Indicate,I
+TS1_SYNC,Transport Stream1 Sync,I
+TS1_DVLD,Transport Stream1 Valid Signal,I
+TS1_D0,Transport Stream1 Data,I
+TS2_CLK,Transport Stream2 Clock,I
+TS2_ERR,Transport Stream2 Error Indicate,I
+TS2_SYNC,Transport Stream2 Sync,I
+TS2_DVLD,Transport Stream2 Valid Signal,I
+TS2_D[7:0],Transport Stream2 Data,I
+TS3_CLK,Transport Stream3 Clock,I
+TS3_ERR,Transport Stream3 Error Indicate,I
+TS3_SYNC,Transport Stream3 Sync,I
+TS3_DVLD,Transport Stream3 Valid Signal,I
+TS3_D0,Transport Stream3 Data,I
+SPI (x=[1:0]),,
+SPIx_CS,"SPIx Chip Select signal, Low Active",I/O
+SPIx_CLK,SPIx Clock Signal,I/O
+SPIx_MOSI,"SPIx Master Data Out, Slave Data In",I/O
+SPIx_MISO,"SPIx Master Data In, Slave Data Out",I/O
+UART,,
+UART0_TX,UART0 Data Transmit,O
+UART0_RX,UART0 Data Receive,I
+UART1_TX,UART1 Data Transmit,O
+UART1_RX,UART1 Data Receive,I
+UART1_CTS,UART1 Data Clear To Send,I
+UART1_RTS,UART1 Data Request To Send,O
+UART2_TX,UART2 Data Transmit,O
+UART2_RX,UART2 Data Receive,I
+UART2_CTS,UART2 Data Clear To Send,I
+UART2_RTS,UART2 Data Request To Send,O
+UART3_TX,UART3 Data Transmit,O
+UART3_RX,UART3 Data Receive,I
+UART3_CTS,UART3 Data Clear To Send,I
+UART3_RTS,UART3 Data Request To Send,O
+S_UART_TX,UART Data Transmit,O
+S_UART_RX,UART Data Receive,I
+TWI (x=[2:0]),,
+TWIx_SCK,TWIx Serial Clock Signal,I/O
+TWIx_SDA,TWIx Serial Data Signal,I/O
+S_TWI_SCK,TWI Serial Clock Signal for CPUs,I/O
+S_TWI_SDA,TWI Serial Data Signal for CPUs,I/O
+Smart Card Reader(x=[1:0]),,
+SIMx_PWREN,Smart Card Power Enable,O
+SIMx_CLK,Smart Card Clock,O
+SIMx_DATA,Smart Card Data,I/O
+SIMx_RST,Smart Card Reset,O
+SIMx_DET,Smart Card Detect,I
+SIMx_VPPEN,Smart Card Program Voltage Enable,O
+SIMx_VPPPP,Smart Card Program Control,O
+DI,,
+DI_TX,De-Interlacer Output,O
+DI_RX,De-Interlacer Input,I
+JTAG,,
+JTAG_MS,JTAG Mode Select Input,I
+JTAG_CK,JTAG Clock Input,I
+JTAG_DO,JTAG Data Output,O
+JTAG_DI,JTAG Data Input,I
+S_JTAG_MS,JTAG Mode Select Input for CPUs,I
+S_JTAG_CK,JTAG Clock Input for CPUs,I
+S_JTAG_DO,JTAG Data Output for CPUs,O
+S_JTAG_DI,JTAG Data Input for CPUs,I

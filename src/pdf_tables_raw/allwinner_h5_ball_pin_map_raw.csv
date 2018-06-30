@@ -1,0 +1,1092 @@
+Ball#,Pin Name,Signal Name,Function,Ball Reset Rel. Function,Type,Ball Reset State,Pull Up/Down,Buffer Strength,(mA),Power Supply
+DRAM,,,,,,,,,,
+T17,SA0,SA0,NA,NA,O,Z,NA,NA,,VCC-DRAM
+U18,SA1,SA1,NA,NA,O,Z,NA,NA,,VCC-DRAM
+V19,SA2,SA2,NA,NA,O,Z,NA,NA,,VCC-DRAM
+V20,SA3,SA3,NA,NA,O,Z,NA,NA,,VCC-DRAM
+V21,SA4,SA4,NA,NA,O,Z,NA,NA,,VCC-DRAM
+Y19,SA5,SA5,NA,NA,O,Z,NA,NA,,VCC-DRAM
+Y20,SA6,SA6,NA,NA,O,Z,NA,NA,,VCC-DRAM
+V15,SA7,SA7,NA,NA,O,Z,NA,NA,,VCC-DRAM
+W18,SA8,SA8,NA,NA,O,Z,NA,NA,,VCC-DRAM
+Y18,SA9,SA9,NA,NA,O,Z,NA,NA,,VCC-DRAM
+P19,SA10,SA10,NA,NA,O,Z,NA,NA,,VCC-DRAM
+N19,SA11,SA11,NA,NA,O,Z,NA,NA,,VCC-DRAM
+R18,SA12,SA12,NA,NA,O,Z,NA,NA,,VCC-DRAM
+V12,SA13,SA13,NA,NA,O,Z,NA,NA,,VCC-DRAM
+N17,SA14,SA14,NA,NA,O,Z,NA,NA,,VCC-DRAM
+R17,SA15,SA15,NA,NA,O,Z,NA,NA,,VCC-DRAM
+W17,SBA0,SBA0,NA,NA,O,Z,NA,NA,,VCC-DRAM
+T18,SBA1,SBA1,NA,NA,O,Z,NA,NA,,VCC-DRAM
+V17,SBA2,SBA2,NA,NA,O,Z,NA,NA,,VCC-DRAM
+U15,SCAS,SCAS,NA,NA,O,Z,NA,NA,,VCC-DRAM
+AA19,SCK,SCK,NA,NA,O,Z,NA,NA,,VCC-DRAM
+AA20,SCKB,SCKB,NA,NA,O,Z,NA,NA,,VCC-DRAM
+AA21,SCKE0,SCKE0,NA,NA,O,Z,NA,NA,,VCC-DRAM
+Y21,SCKE1,SCKE1,NA,NA,O,Z,NA,NA,,VCC-DRAM
+W20,SCS0,SCS0,NA,NA,O,Z,NA,NA,,VCC-DRAM
+W21,SCS1,SCS1,NA,NA,O,Z,NA,NA,,VCC-DRAM
+W11,SODT0,SODT0,NA,NA,O,Z,NA,NA,,VCC-DRAM
+V11,SODT1,SODT1,NA,NA,O,Z,NA,NA,,VCC-DRAM
+N20,SDQ0,SDQ0,NA,NA,I/O,Z,NA,NA,,VCC-DRAM
+P21,SDQ1,SDQ1,NA,NA,I/O,Z,NA,NA,,VCC-DRAM
+P20,SDQ2,SDQ2,NA,NA,I/O,Z,NA,NA,,VCC-DRAM
+U21,SDQ3,SDQ3,NA,NA,I/O,Z,NA,NA,,VCC-DRAM
+R19,SDQ4,SDQ4,NA,NA,I/O,Z,NA,NA,,VCC-DRAM
+T20,SDQ5,SDQ5,NA,NA,I/O,Z,NA,NA,,VCC-DRAM
+U19,SDQ6,SDQ6,NA,NA,I/O,Z,NA,NA,,VCC-DRAM
+U20,SDQ7,SDQ7,NA,NA,I/O,Z,NA,NA,,VCC-DRAM
+J19,SDQ8,SDQ8,NA,NA,I/O,Z,NA,NA,,VCC-DRAM
+H20,SDQ9,SDQ9,NA,NA,I/O,Z,NA,NA,,VCC-DRAM
+H21,SDQ10,SDQ10,NA,NA,I/O,Z,NA,NA,,VCC-DRAM
+J21,SDQ11,SDQ11,NA,NA,I/O,Z,NA,NA,,VCC-DRAM
+L20,SDQ12,SDQ12,NA,NA,I/O,Z,NA,NA,,VCC-DRAM
+L21,SDQ13,SDQ13,NA,NA,I/O,Z,NA,NA,,VCC-DRAM
+M21,SDQ14,SDQ14,NA,NA,I/O,Z,NA,NA,,VCC-DRAM
+M19,SDQ15,SDQ15,NA,NA,I/O,Z,NA,NA,,VCC-DRAM
+Y17,SDQ16,SDQ16,NA,NA,I/O,Z,NA,NA,,VCC-DRAM
+AA17,SDQ17,SDQ17,NA,NA,I/O,Z,NA,NA,,VCC-DRAM
+Y16,SDQ18,SDQ18,NA,NA,I/O,Z,NA,NA,,VCC-DRAM
+W15,SDQ19,SDQ19,NA,NA,I/O,Z,NA,NA,,VCC-DRAM
+Y14,SDQ20,SDQ20,NA,NA,I/O,Z,NA,NA,,VCC-DRAM
+AA14,SDQ21,SDQ21,NA,NA,I/O,Z,NA,NA,,VCC-DRAM
+Y13,SDQ22,SDQ22,NA,NA,I/O,Z,NA,NA,,VCC-DRAM
+Y12,SDQ23,SDQ23,NA,NA,I/O,Z,NA,NA,,VCC-DRAM
+W12,SDQ24,SDQ24,NA,NA,I/O,Z,NA,NA,,VCC-DRAM
+AA11,SDQ25,SDQ25,NA,NA,I/O,Z,NA,NA,,VCC-DRAM
+Y11,SDQ26,SDQ26,NA,NA,I/O,Z,NA,NA,,VCC-DRAM
+Y10,SDQ27,SDQ27,NA,NA,I/O,Z,NA,NA,,VCC-DRAM
+W9,SDQ28,SDQ28,NA,NA,I/O,Z,NA,NA,,VCC-DRAM
+AA8,SDQ29,SDQ29,NA,NA,I/O,Z,NA,NA,,VCC-DRAM
+Y8,SDQ30,SDQ30,NA,NA,I/O,Z,NA,NA,,VCC-DRAM
+"",,,,,,,,,
+Y7,SDQ31,SDQ31,NA,NA,I/O,Z,NA,NA,VCC-DRAM
+M20,SDQM0,SDQM0,NA,NA,O,Z,NA,NA,VCC-DRAM
+G20,SDQM1,SDQM1,NA,NA,O,Z,NA,NA,VCC-DRAM
+AA18,SDQM2,SDQM2,NA,NA,O,Z,NA,NA,VCC-DRAM
+AA12,SDQM3,SDQM3,NA,NA,O,Z,NA,NA,VCC-DRAM
+R20,SDQS0,SDQS0,NA,NA,I/O,Z,NA,NA,VCC-DRAM
+R21,SDQS0B,SDQS0B,NA,NA,I/O,Z,NA,NA,VCC-DRAM
+K20,SDQS1,SDQS1,NA,NA,I/O,Z,NA,NA,VCC-DRAM
+J20,SDQS1B,SDQS1B,NA,NA,I/O,Z,NA,NA,VCC-DRAM
+AA15,SDQS2,SDQS2,NA,NA,I/O,Z,NA,NA,VCC-DRAM
+Y15,SDQS2B,SDQS2B,NA,NA,I/O,Z,NA,NA,VCC-DRAM
+AA9,SDQS3,SDQS3,NA,NA,I/O,Z,NA,NA,VCC-DRAM
+Y9,SDQS3B,SDQS3B,NA,NA,I/O,Z,NA,NA,VCC-DRAM
+V13,SRAS,SRAS,NA,NA,O,Z,NA,NA,VCC-DRAM
+U16,SRST,SRST,NA,NA,O,Z,NA,NA,VCC-DRAM
+T16,SVREF,SVREF,NA,NA,P,NA,NA,NA,VCC-DRAM
+W13,SWE,SWE,NA,NA,O,Z,NA,NA,VCC-DRAM
+V10,SZQ,SZQ,NA,NA,AI,Z,NA,NA,VCC-DRAM
+"L16,M16,N16,P16,P17,R16,T12,T13,T14,T15,U11",VCC-DRAM,VCC-DRAM,NA,NA,P,NA,NA,NA,NA
+GPIOA,,,,,,,,,
+D11,PA0,Input,0,Function7,I,Z,PU/PD,20,VCC-IO
+"",,Output,1,O,,,,,
+"",,UART2_TX,2,O,,,,,
+"",,JTAG_MS,3,I,,,,,
+"",,Reserved,4,NA,,,,,
+"",,Reserved,5,NA,,,,,
+"",,PA_EINT0,6,I,,,,,
+"",,IO Disable,7,OFF,,,,,
+D5,PA1,Input,0,Function7,I,Z,PU/PD,20,VCC-IO
+"",,Output,1,O,,,,,
+"",,UART2_RX,2,I,,,,,
+"",,JTAG_CK,3,I,,,,,
+"",,Reserved,4,NA,,,,,
+"",,Reserved,5,NA,,,,,
+"",,PA_EINT1,6,I,,,,,
+"",,IO Disable,7,OFF,,,,,
+D6,PA2,Input,0,Function7,I,Z,PU/PD,20,VCC-IO
+"",,Output,1,O,,,,,
+"",,UART2_RTS,2,O,,,,,
+"",,JTAG_DO,3,O,,,,,
+"",,Reserved,4,NA,,,,,
+"",,Reserved,5,NA,,,,,
+"",,PA_EINT2,6,I,,,,,
+"",,IO Disable,7,OFF,,,,,
+E13,PA3,Input,0,Function7,I,Z,PU/PD,20,VCC-IO
+"",,Output,1,O,,,,,
+"",,UART2_CTS,2,I,,,,,
+"",,JTAG_DI,3,I,,,,,
+"",,Reserved,4,NA,,,,,
+"",,Reserved,5,NA,,,,,
+"",,PA_EINT3,6,I,,,,,
+"",,IO Disable,7,OFF,,,,,
+F5,PA4,Input,0,Function7,I,Z,PU/PD,20,VCC-IO
+"",,Output,1,O,,,,,
+"",,UART0_TX,2,O,,,,,
+"",,Reserved,3,NA,,,,,
+"",,Reserved,4,NA,,,,,
+"",,Reserved,5,NA,,,,,
+"",,PA_EINT4,6,I,,,,,
+"",,IO Disable,7,OFF,,,,,
+H6,PA5,Input,0,Function7,I,Z,PU/PD,20,VCC-IO
+"",,,,,,,,,
+"",,Output,1,,O,,,,
+"",,UART0_RX,2,I,,,,,
+"",,PWM0,3,O,,,,,
+"",,Reserved,4,NA,,,,,
+"",,Reserved,5,NA,,,,,
+"",,PA_EINT5,6,I,,,,,
+"",,IO Disable,7,OFF,,,,,
+E14,PA6,Input,0,Function7,I,Z,PU/PD,20,VCC-IO
+"",,Output,1,O,,,,,
+"",,SIM0_PWREN,2,O,,,,,
+"",,PCM0_MCLK,3,O,,,,,
+"",,Reserved,4,NA,,,,,
+"",,Reserved,5,NA,,,,,
+"",,PA_EINT6,6,I,,,,,
+"",,IO Disable,7,OFF,,,,,
+D8,PA7,Input,0,Function7,I,Z,PU/PD,20,VCC-IO
+"",,Output,1,O,,,,,
+"",,SIM0_CLK,2,O,,,,,
+"",,Reserved,3,NA,,,,,
+"",,Reserved,4,NA,,,,,
+"",,Reserved,5,NA,,,,,
+"",,PA_EINT7,6,I,,,,,
+"",,IO Disable,7,OFF,,,,,
+F13,PA8,Input,0,Function7,I,Z,PU/PD,20,VCC-IO
+"",,Output,1,O,,,,,
+"",,SIM0_DATA,2,I/O,,,,,
+"",,Reserved,3,NA,,,,,
+"",,Reserved,4,NA,,,,,
+"",,Reserved,5,NA,,,,,
+"",,PA_EINT8,6,I,,,,,
+"",,IO Disable,7,OFF,,,,,
+D13,PA9,Input,0,Function7,I,Z,PU/PD,20,VCC-IO
+"",,Output,1,O,,,,,
+"",,SIM0_RST,2,O,,,,,
+"",,Reserved,3,NA,,,,,
+"",,Reserved,4,NA,,,,,
+"",,Reserved,5,NA,,,,,
+"",,PA_EINT9,6,I,,,,,
+"",,IO Disable,7,OFF,,,,,
+E11,PA10,Input,0,Function7,I,Z,PU/PD,20,VCC-IO
+"",,Output,1,O,,,,,
+"",,SIM0_DET,2,I,,,,,
+"",,Reserved,3,NA,,,,,
+"",,Reserved,4,NA,,,,,
+"",,Reserved,5,NA,,,,,
+"",,PA_EINT10,6,I,,,,,
+"",,IO Disable,7,OFF,,,,,
+F11,PA11,Input,0,Function7,I,Z,PU/PD,20,VCC-IO
+"",,Output,1,O,,,,,
+"",,TWI0_SCK,2,I/O,,,,,
+"",,DI_TX,3,O,,,,,
+"",,Reserved,4,NA,,,,,
+"",,Reserved,5,NA,,,,,
+"",,PA_EINT11,6,I,,,,,
+"",,IO Disable,7,OFF,,,,,
+C13,PA12,Input,0,Function7,I,Z,PU/PD,20,VCC-IO
+Output,1,O,,,,,,,
+TWI0_SDA,2,I/O,,,,,,,
+DI_RX,3,I,,,,,,,
+Reserved,4,NA,,,,,,,
+Reserved,5,NA,,,,,,,
+PA_EINT12,6,I,,,,,,,
+"",,IO Disable,7,,OFF,,,,
+"",,Input,0,,I,,,,
+"",,Output,1,,O,,,,
+"",,SPI1_CS,2,,I/O,,,,
+"",,UART3_TX,3,,O,,,,
+E15,PA13,,,Function7,,Z,PU/PD,20,VCC-IO
+"",,Reserved,4,,NA,,,,
+"",,Reserved,5,,NA,,,,
+"",,PA_EINT13,6,,I,,,,
+"",,IO Disable,7,,OFF,,,,
+"",,Input,0,,I,,,,
+"",,Output,1,,O,,,,
+"",,SPI1_CLK,2,,I/O,,,,
+"",,UART3_RX,3,,I,,,,
+G12,PA14,,,Function7,,Z,PU/PD,20,VCC-IO
+"",,Reserved,4,,NA,,,,
+"",,Reserved,5,,NA,,,,
+"",,PA_EINT14,6,,I,,,,
+"",,IO Disable,7,,OFF,,,,
+"",,Input,0,,I,,,,
+"",,Output,1,,O,,,,
+"",,SPI1_MOSI,2,,I/O,,,,
+"",,UART3_RTS,3,,O,,,,
+F14,PA15,,,Function7,,Z,PU/PD,20,VCC-IO
+"",,Reserved,4,,NA,,,,
+"",,Reserved,5,,NA,,,,
+"",,PA_EINT15,6,,I,,,,
+"",,IO Disable,7,,OFF,,,,
+"",,Input,0,,I,,,,
+"",,Output,1,,O,,,,
+"",,SPI1_MISO,2,,I/O,,,,
+"",,UART3_CTS,3,,I,,,,
+D15,PA16,,,Function7,,Z,PU/PD,20,VCC-IO
+"",,Reserved,4,,NA,,,,
+"",,Reserved,5,,NA,,,,
+"",,PA_EINT16,6,,I,,,,
+"",,IO Disable,7,,OFF,,,,
+"",,Input,0,,I,,,,
+"",,Output,1,,O,,,,
+"",,OWA_OUT,2,,O,,,,
+"",,Reserved,3,,NA,,,,
+C14,PA17,,,Function7,,Z,PU/PD,20,VCC-IO
+"",,Reserved,4,,NA,,,,
+"",,Reserved,5,,NA,,,,
+"",,PA_EINT17,6,,I,,,,
+"",,IO Disable,7,,OFF,,,,
+"",,Input,0,,I,,,,
+"",,Output,1,,O,,,,
+"",,PCM0_SYNC,2,,I/O,,,,
+"",,TWI1_SCK,3,,I/O,,,,
+B13,PA18,,,Function7,,Z,PU/PD,20,VCC-IO
+"",,Reserved,4,,NA,,,,
+"",,Reserved,5,,NA,,,,
+"",,PA_EINT18,6,,I,,,,
+"",,IO Disable,7,,OFF,,,,
+"",,Input,0,,I,,,,
+"",,Output,1,,O,,,,
+"",,PCM0_CLK,2,,I/O,,,,
+"",,TWI1_SDA,3,,I/O,,,,
+B14,PA19,,,Function7,,Z,PU/PD,20,VCC-IO
+"",,Reserved,4,,NA,,,,
+"",,Reserved,5,,NA,,,,
+"",,PA_EINT19,6,,I,,,,
+"",,IO Disable,7,,OFF,,,,
+"",,Input,0,,I,,,,
+"",,Output,1,,O,,,,
+A13,PA20,PCM0_DOUT,2,Function7,O,Z,PU/PD,20,VCC-IO
+"",,SIM0_VPPEN,3,,O,,,,
+"",,Reserved,4,,NA,,,,
+"",,Reserved,5,,NA,,,,
+"",,PA_EINT20,6,,I,,,,
+"",,IO Disable,7,,OFF,,,,
+"",,Input,0,,I,,,,
+"",,Output,1,,O,,,,
+"",,PCM0_DIN,2,,I,,,,
+"",,SIM0_VPPPP,3,,O,,,,
+A14,PA21,,,Function7,,Z,PU/PD,20,VCC-IO
+"",,Reserved,4,,NA,,,,
+"",,Reserved,5,,NA,,,,
+"",,PA_EINT21,6,,I,,,,
+"",,IO Disable,7,,OFF,,,,
+GPIOC,,,,,,,,,
+"",,Input,0,,I,,,,
+"",,Output,1,,O,,,,
+"",,NAND_WE,2,,O,,,,
+"",,SPI0_MOSI,3,,I/O,,,,
+C15,PC0,,,Function7,,Z,PU/PD,20,VCC-PC
+"",,Reserved,4,,NA,,,,
+"",,Reserved,5,,NA,,,,
+"",,Reserved,6,,NA,,,,
+"",,IO Disable,7,,OFF,,,,
+"",,Input,0,,I,,,,
+"",,Output,1,,O,,,,
+"",,NAND_ALE,2,,O,,,,
+"",,SPI0_MISO,3,,I/O,,,,
+C16,PC1,,,Function7,,Z,PU/PD,20,VCC-PC
+"",,SDC2_DS,4,,NA,,,,
+"",,Reserved,5,,NA,,,,
+"",,Reserved,6,,NA,,,,
+"",,IO Disable,7,,OFF,,,,
+"",,Input,0,,I,,,,
+"",,Output,1,,O,,,,
+"",,NAND_CLE,2,,O,,,,
+"",,SPI0_CLK,3,,I/O,,,,
+B16,PC2,,,Function7,,Z,PU/PD,20,VCC-PC
+"",,Reserved,4,,NA,,,,
+"",,Reserved,5,,NA,,,,
+"",,Reserved,6,,NA,,,,
+"",,IO Disable,7,,OFF,,,,
+"",,Input,0,,I,,,,
+"",,Output,1,,O,,,,
+"",,NAND_CE1,2,,O,,,,
+"",,SPI0_CS,3,,NA,,,,
+B15,PC3,,,Function7,,PU,PU/PD,20,VCC-PC
+"",,Reserved,4,,NA,,,,
+"",,Reserved,5,,NA,,,,
+"",,Reserved,6,,NA,,,,
+"",,IO Disable,7,,OFF,,,,
+"",,Input,0,,I,,,,
+"",,Output,1,,O,,,,
+"",,NAND_CE0,2,,O,,,,
+"",,Reserved,3,,NA,,,,
+F16,PC4,,,Function7,,PU,PU/PD,20,VCC-PC
+"",,SPI0_MISO,4,,NA,,,,
+"",,Reserved,5,,NA,,,,
+"",,Reserved,6,,NA,,,,
+"",,IO Disable,7,,OFF,,,,
+"",,Input,0,,I,,,,
+"",,Output,1,,O,,,,
+"",,NAND_RE,2,,O,,,,
+"",,SDC2_CLK,3,,I/O,,,,
+A17,PC5,,,Function7,,Z,PU/PD,20,VCC-PC
+"",,Reserved,4,,NA,,,,
+"",,Reserved,5,,NA,,,,
+"",,Reserved,6,,NA,,,,
+"",,IO Disable,7,,OFF,,,,
+"",,Input,0,,I,,,,
+E16,PC6,,,Function7,,PU,PU/PD,20,VCC-PC
+"",,Output,1,,O,,,,
+"",,,,,,,,,
+"",,NAND_RB0,2,,I,,,,
+"",,SDC2_CMD,3,I/O,,,,,
+"",,Reserved,4,NA,,,,,
+"",,Reserved,5,NA,,,,,
+"",,Reserved,6,NA,,,,,
+"",,IO Disable,7,OFF,,,,,
+A16,PC7,Input,0,Function7,I,PU,PU/PD,20,VCC-PC
+"",,Output,1,O,,,,,
+"",,NAND_RB1,2,I,,,,,
+"",,Reserved,3,NA,,,,,
+"",,Reserved,4,NA,,,,,
+"",,Reserved,5,NA,,,,,
+"",,Reserved,6,NA,,,,,
+"",,IO Disable,7,OFF,,,,,
+B18,PC8,Input,0,Function7,I,Z,PU/PD,20,VCC-PC
+"",,Output,1,O,,,,,
+"",,NAND_DQ0,2,I/O,,,,,
+"",,SDC2_D0,3,I/O,,,,,
+"",,Reserved,4,NA,,,,,
+"",,Reserved,5,NA,,,,,
+"",,Reserved,6,NA,,,,,
+"",,IO Disable,7,OFF,,,,,
+C17,PC9,Input,0,Function7,I,Z,PU/PD,20,VCC-PC
+"",,Output,1,O,,,,,
+"",,NAND_DQ1,2,I/O,,,,,
+"",,SDC2_D1,3,I/O,,,,,
+"",,Reserved,4,NA,,,,,
+"",,Reserved,5,NA,,,,,
+"",,Reserved,6,NA,,,,,
+"",,IO Disable,7,OFF,,,,,
+D17,PC10,Input,0,Function7,I,Z,PU/PD,20,VCC-PC
+"",,Output,1,O,,,,,
+"",,NAND_DQ2,2,I/O,,,,,
+"",,SDC2_D2,3,I/O,,,,,
+"",,Reserved,4,NA,,,,,
+"",,Reserved,5,NA,,,,,
+"",,Reserved,6,NA,,,,,
+"",,IO Disable,7,OFF,,,,,
+C18,PC11,Input,0,Function7,I,Z,PU/PD,20,VCC-PC
+"",,Output,1,O,,,,,
+"",,NAND_DQ3,2,I/O,,,,,
+"",,SDC2_D3,3,I/O,,,,,
+"",,Reserved,4,NA,,,,,
+"",,Reserved,5,NA,,,,,
+"",,Reserved,6,NA,,,,,
+"",,IO Disable,7,OFF,,,,,
+B17,PC12,Input,0,Function7,I,Z,PU/PD,20,VCC-PC
+"",,Output,1,O,,,,,
+"",,NAND_DQ4,2,I/O,,,,,
+"",,SDC2_D4,3,I/O,,,,,
+"",,Reserved,4,NA,,,,,
+"",,Reserved,5,NA,,,,,
+"",,Reserved,6,NA,,,,,
+"",,IO Disable,7,OFF,,,,,
+B19,PC13,Input,0,Function7,I,Z,PU/PD,20,VCC-PC
+Output,1,O,,,,,,,
+NAND_DQ5,2,I/O,,,,,,,
+SDC2_D5,3,I/O,,,,,,,
+Reserved,4,NA,,,,,,,
+Reserved,5,NA,,,,,,,
+Reserved,6,NA,,,,,,,
+IO Disable,7,OFF,,,,,,,
+"",,,,,,,,,
+F17,PC14,Input,0,Function7,I,Z,PU/PD,20,VCC-PC
+"",,Output,1,O,,,,,
+"",,NAND_DQ6,2,I/O,,,,,
+"",,SDC2_D6,3,I/O,,,,,
+"",,Reserved,4,NA,,,,,
+"",,Reserved,5,NA,,,,,
+"",,Reserved,6,NA,,,,,
+"",,IO Disable,7,OFF,,,,,
+C19,PC15,Input,0,Function7,I,Z,PU/PD,20,VCC-PC
+"",,Output,1,O,,,,,
+"",,NAND_DQ7,2,I/O,,,,,
+"",,SDC2_D7,3,I/O,,,,,
+"",,Reserved,4,NA,,,,,
+"",,Reserved,5,NA,,,,,
+"",,Reserved,6,NA,,,,,
+"",,IO Disable,7,OFF,,,,,
+H16,PC16,Input,0,Function7,I,PD,PU/PD,20,VCC-PC
+"",,Output,1,O,,,,,
+"",,NAND_DQS,2,O,,,,,
+"",,SDC2_RST,3,O,,,,,
+"",,Reserved,4,NA,,,,,
+"",,Reserved,5,NA,,,,,
+"",,Reserved,6,NA,,,,,
+"",,IO Disable,7,OFF,,,,,
+G15,VCC-PC,VCC-PC,NA,NA,P,NA,NA,NA,NA
+GPIOD,,,,,,,,,
+C21,PD0,Input,0,Function7,I,Z,PU/PD,20,VCC-PD
+"",,Output,1,O,,,,,
+"",,"RGMII_RXD3/MII_RXD3/RMII_NULL",2,I,,,,,
+"",,DI_TX,3,O,,,,,
+"",,TS2_CLK,4,I,,,,,
+"",,Reserved,5,NA,,,,,
+"",,Reserved,6,NA,,,,,
+"",,IO Disable,7,OFF,,,,,
+H17,PD1,Input,0,Function7,I,Z,PU/PD,20,VCC-PD
+"",,Output,1,O,,,,,
+"",,"RGMII_RXD2/MII_RXD2/RMII_NULL",2,I,,,,,
+"",,DI_RX,3,I,,,,,
+"",,TS2_ERR,4,I,,,,,
+"",,Reserved,5,NA,,,,,
+"",,Reserved,6,NA,,,,,
+"",,IO Disable,7,OFF,,,,,
+B20,PD2,Input,0,Function7,I,Z,PU/PD,20,VCC-PD
+"",,Output,1,O,,,,,
+"",,"RGMII_RXD1/MII_RXD1/RMII_RXD1",2,I,,,,,
+"",,Reserved,3,NA,,,,,
+"",,TS2_SYNC,4,I,,,,,
+"",,Reserved,5,NA,,,,,
+"",,Reserved,6,NA,,,,,
+"",,IO Disable,7,OFF,,,,,
+H18,PD3,Input,0,Function7,I,Z,PU/PD,20,VCC-PD
+Output,1,O,,,,,,,
+"RGMII_RXD0/MII_RXD0/RMII_RXD0",2,I,,,,,,,
+Reserved,3,NA,,,,,,,
+TS2_DVLD,4,I,,,,,,,
+"",,,,,,,,,
+"",,Reserved,5,,NA,,,,
+"",,Reserved,6,NA,,,,,,
+"",,IO Disable,7,OFF,,,,,,
+A20,PD4,Input,0,Function7,I,Z,PU/PD,20,VCC-PD
+"",,Output,1,O,,,,,,
+"",,"RGMII_RXCK/MII_RXCK/RMII_NULL",2,I,,,,,,
+"",,Reserved,3,NA,,,,,,
+"",,TS2_D0,4,I,,,,,,
+"",,Reserved,5,NA,,,,,,
+"",,Reserved,6,NA,,,,,,
+"",,IO Disable,7,OFF,,,,,,
+F19,PD5,Input,0,Function7,I,Z,PU/PD,20,VCC-PD
+"",,Output,1,O,,,,,,
+"",,"RGMII_RXCTL/MII_RXDV/RMII_CRS_DV",2,I,,,,,,
+"",,Reserved,3,NA,,,,,,
+"",,TS2_D1,4,I,,,,,,
+"",,Reserved,5,NA,,,,,,
+"",,Reserved,6,NA,,,,,,
+"",,IO Disable,7,OFF,,,,,,
+B21,PD6,Input,0,Function7,I,Z,PU/PD,20,VCC-PD
+"",,Output,1,O,,,,,,
+"",,"RGMII_NULL/MII_RXERR/RMII_RXER",2,I,,,,,,
+"",,Reserved,3,NA,,,,,,
+"",,TS2_D2,4,I,,,,,,
+"",,Reserved,5,NA,,,,,,
+"",,Reserved,6,NA,,,,,,
+"",,IO Disable,7,OFF,,,,,,
+E18,PD7,Input,0,Function7,I,Z,PU/PD,20,VCC-PD
+"",,Output,1,O,,,,,,
+"",,"RGMII_TXD3/MII_TXD3/RMII_NULL",2,O,,,,,,
+"",,Reserved,3,NA,,,,,,
+"",,TS2_D3,4,I,,,,,,
+"",,TS3_CLK,5,I,,,,,,
+"",,Reserved,6,NA,,,,,,
+"",,IO Disable,7,OFF,,,,,,
+E20,PD8,Input,0,Function7,I,Z,PU/PD,20,VCC-PD
+"",,Output,1,O,,,,,,
+"",,"RGMII_TXD2/MII_TXD2/RMII_NULL",2,O,,,,,,
+"",,Reserved,3,NA,,,,,,
+"",,TS2_D4,4,I,,,,,,
+"",,TS3_ERR,5,I,,,,,,
+"",,Reserved,6,NA,,,,,,
+"",,IO Disable,7,OFF,,,,,,
+F21,PD9,Input,0,Function7,I,Z,PU/PD,20,VCC-PD
+Output,1,O,,,,,,,
+"RGMII_TXD1/MII_TXD1/RMII_TXD1",2,O,,,,,,,
+Reserved,3,NA,,,,,,,
+TS2_D5,4,I,,,,,,,
+TS3_SYNC,5,i,,,,,,,
+Reserved,6,NA,,,,,,,
+IO Disable,7,OFF,,,,,,,
+"",,,,,,,,,
+H19,PD10,Input,0,Function7,I,Z,PU/PD,20,VCC-PD
+"",,Output,1,O,,,,,,
+"",,"RGMII_TXD0/MII_TXD0/RMII_TXD0",2,O,,,,,,
+"",,Reserved,3,NA,,,,,,
+"",,TS2_D6,4,I,,,,,,
+"",,TS3_DVLD,5,I,,,,,,
+"",,Reserved,6,NA,,,,,,
+"",,IO Disable,7,OFF,,,,,,
+F20,PD11,Input,0,Function7,I,Z,PU/PD,20,VCC-PD
+"",,Output,1,O,,,,,,
+"",,"RGMII_NULL/MII_CRS/RMII_NULL",2,I,,,,,,
+"",,Reserved,3,NA,,,,,,
+"",,TS2_D7,4,I,,,,,,
+"",,TS3_D0,5,I,,,,,,
+"",,Reserved,6,NA,,,,,,
+"",,IO Disable,7,OFF,,,,,,
+E19,PD12,Input,0,Function7,I,Z,PU/PD,20,VCC-PD
+"",,Output,1,O,,,,,,
+"",,"RGMII_TXCK/MII_TXCK/RMII_TXCK",2,I/O,,,,,,
+"",,Reserved,3,NA,,,,,,
+"",,SIM1_PWREN,4,O,,,,,,
+"",,Reserved,5,NA,,,,,,
+"",,Reserved,6,NA,,,,,,
+"",,IO Disable,7,OFF,,,,,,
+K17,PD13,Input,0,Function7,I,Z,PU/PD,20,VCC-PD
+"",,Output,1,O,,,,,,
+"",,"RGMII_TXCTL/MII_TXEN/RMII_TXEN",2,I/O,,,,,,
+"",,Reserved,3,NA,,,,,,
+"",,SIM1_CLK,4,O,,,,,,
+"",,Reserved,5,NA,,,,,,
+"",,Reserved,6,NA,,,,,,
+"",,IO Disable,7,OFF,,,,,,
+L17,PD14,Input,0,Function7,I,Z,PU/PD,20,VCC-PD
+"",,Output,1,O,,,,,,
+"",,"RGMII_NULL/MII_TXERR/RMII_NULL",2,O,,,,,,
+"",,Reserved,3,NA,,,,,,
+"",,SIM1_DATA,4,I/O,,,,,,
+"",,Reserved,5,NA,,,,,,
+"",,Reserved,6,NA,,,,,,
+"",,IO Disable,7,OFF,,,,,,
+K18,PD15,Input,0,Function7,I,Z,PU/PD,20,VCC-PD
+"",,Output,1,O,,,,,,
+"",,"RGMII_CLKIN/MII_COL/RMII_NULL",2,I,,,,,,
+"",,Reserved,3,NA,,,,,,
+"",,SIM1_RST,4,O,,,,,,
+"",,Reserved,5,NA,,,,,,
+"",,Reserved,6,NA,,,,,,
+"",,IO Disable,7,OFF,,,,,,
+L18,PD16,Input,0,Function7,I,Z,PU/PD,20,VCC-PD
+Output,1,O,,,,,,,
+MDC,2,O,,,,,,,
+"",,Reserved,3,,NA,,,,
+"",,SIM1_DET,4,,I,,,,
+"",,Reserved,5,,NA,,,,
+"",,Reserved,6,,NA,,,,
+"",,IO Disable,7,,OFF,,,,
+"",,Input,0,,I,,,,
+"",,Output,1,,O,,,,
+"",,MDIO,2,,I/O,,,,
+"",,Reserved,3,,NA,,,,
+L19,PD17,,,Function7,,Z,PU/PD,20,VCC-PD
+"",,Reserved,4,,NA,,,,
+"",,Reserved,5,,NA,,,,
+"",,Reserved,6,,NA,,,,
+"",,IO Disable,7,,OFF,,,,
+J15,VCC-PD,VCC-PD,NA,NA,P,NA,NA,NA,NA
+GPIOE,,,,,,,,,
+"",,Input,0,,I,,,,
+"",,Output,1,,O,,,,
+"",,CSI_PCLK,2,,I,,,,
+"",,TS0_CLK,3,,I,,,,
+B10,PE0,,,Function7,,Z,PU/PD,20,VCC-IO
+"",,Reserved,4,,NA,,,,
+"",,Reserved,5,,NA,,,,
+"",,Reserved,6,,NA,,,,
+"",,IO Disable,7,,OFF,,,,
+"",,Input,0,,I,,,,
+"",,Output,1,,O,,,,
+"",,CSI_MCLK,2,,O,,,,
+"",,TS0_ERR,3,,O,,,,
+A10,PE1,,,Function7,,Z,PU/PD,20,VCC-IO
+"",,Reserved,4,,NA,,,,
+"",,Reserved,5,,NA,,,,
+"",,Reserved,6,,NA,,,,
+"",,IO Disable,7,,OFF,,,,
+"",,Input,0,,I,,,,
+"",,Output,1,,O,,,,
+"",,CSI_HSYNC,2,,I,,,,
+"",,TS0_SYNC,3,,I,,,,
+B11,PE2,,,Function7,,Z,PU/PD,20,VCC-IO
+"",,Reserved,4,,NA,,,,
+"",,Reserved,5,,NA,,,,
+"",,Reserved,6,,NA,,,,
+"",,IO Disable,7,,OFF,,,,
+"",,Input,0,,I,,,,
+"",,Output,1,,O,,,,
+"",,CSI_VSYNC,2,,I,,,,
+"",,TS0_DVLD,3,,I,,,,
+C10,PE3,,,Function7,,Z,PU/PD,20,VCC-IO
+"",,Reserved,4,,NA,,,,
+"",,Reserved,5,,NA,,,,
+"",,Reserved,6,,NA,,,,
+"",,IO Disable,7,,OFF,,,,
+"",,Input,0,,I,,,,
+"",,Output,1,,O,,,,
+"",,CSI_D0,2,,I,,,,
+"",,TS0_D0,3,,I,,,,
+C9,PE4,,,Function7,,Z,PU/PD,20,VCC-IO
+"",,Reserved,4,,NA,,,,
+"",,Reserved,5,,NA,,,,
+"",,Reserved,6,,NA,,,,
+"",,IO Disable,7,,OFF,,,,
+"",,Input,0,,I,,,,
+"",,Output,1,,O,,,,
+"",,CSI_D1,2,,I,,,,
+E10,PE5,TS0_D1,3,Function7,I,Z,PU/PD,20,VCC-IO
+"",,Reserved,4,,O,,,,
+"",,Reserved,5,,NA,,,,
+"",,Reserved,6,,NA,,,,
+"",,IO Disable,7,,OFF,,,,
+"",,Input,0,,I,,,,
+"",,Output,1,,O,,,,
+"",,CSI_D2,2,,I,,,,
+"",,TS0_D2,3,,I,,,,
+D10,PE6,,,Function7,,Z,PU/PD,20,VCC-IO
+"",,Reserved,4,,NA,,,,
+"",,Reserved,5,,NA,,,,
+"",,Reserved,6,,NA,,,,
+"",,IO Disable,7,,OFF,,,,
+"",,Input,0,,I,,,,
+"",,Output,1,,O,,,,
+"",,CSI_D3,2,,I,,,,
+"",,TS0_D3,3,,I,,,,
+C8,PE7,,,Function7,,Z,PU/PD,20,VCC-IO
+"",,TS1_CLK,4,,NA,,,,
+"",,Reserved,5,,NA,,,,
+"",,Reserved,6,,NA,,,,
+"",,IO Disable,7,,OFF,,,,
+"",,Input,0,,I,,,,
+"",,Output,1,,O,,,,
+"",,CSI_D4,2,,I,,,,
+"",,TS0_D4,3,,I,,,,
+C11,PE8,,,Function7,,Z,PU/PD,20,VCC-IO
+"",,TS1_ERR,4,,NA,,,,
+"",,Reserved,5,,NA,,,,
+"",,Reserved,6,,NA,,,,
+"",,IO Disable,7,,OFF,,,,
+"",,Input,0,,I,,,,
+"",,Output,1,,O,,,,
+"",,CSI_D5,2,,I,,,,
+"",,TS0_D5,3,,I,,,,
+C12,PE9,,,Function7,,Z,PU/PD,20,VCC-IO
+"",,TS1_SYNC,4,,NA,,,,
+"",,Reserved,5,,NA,,,,
+"",,Reserved,6,,NA,,,,
+"",,IO Disable,7,,OFF,,,,
+"",,Input,0,,I,,,,
+"",,Output,1,,O,,,,
+"",,CSI_D6,2,,I,,,,
+"",,TS0_D6,3,,I,,,,
+E8,PE10,,,Function7,,Z,PU/PD,20,VCC-IO
+"",,TS1_DVLD,4,,NA,,,,
+"",,Reserved,5,,NA,,,,
+"",,Reserved,6,,NA,,,,
+"",,IO Disable,7,,OFF,,,,
+"",,Input,0,,I,,,,
+"",,Output,1,,O,,,,
+"",,CSI_D7,2,,I,,,,
+"",,TS0_D7,3,,I,,,,
+A11,PE11,,,Function7,,Z,PU/PD,20,VCC-IO
+"",,TS1_D0,4,,NA,,,,
+"",,Reserved,5,,NA,,,,
+"",,Reserved,6,,NA,,,,
+"",,IO Disable,7,,OFF,,,,
+"",,Input,0,,I,,,,
+"",,Output,1,,O,,,,
+"",,CSI_SCK,2,,I/O,,,,
+"",,TWI2_SCK,3,,I/O,,,,
+B12,PE12,,,Function7,,Z,PU/PD,20,VCC-IO
+"",,Reserved,4,,NA,,,,
+"",,Reserved,5,,NA,,,,
+"",,Reserved,6,,NA,,,,
+"",,IO Disable,7,,OFF,,,,
+"",,Input,0,,I,,,,
+"",,Output,1,,O,,,,
+C7,PE13,CSI_SDA,2,Function7,I/O,Z,PU/PD,20,VCC-IO
+"",,TWI2_SDA,3,,I/O,,,,
+"",,Reserved,4,,NA,,,,
+"",,Reserved,5,,NA,,,,
+"",,Reserved,6,,NA,,,,
+"",,IO Disable,7,,OFF,,,,
+"",,Input,0,,I,,,,
+"",,Output,1,,O,,,,
+"",,Reserved,2,,NA,,,,
+"",,SIM1_VPPEN,3,,O,,,,
+C6,PE14,,,Function7,,Z,PU/PD,20,VCC-IO
+"",,Reserved,4,,NA,,,,
+"",,Reserved,5,,NA,,,,
+"",,Reserved,6,,NA,,,,
+"",,IO Disable,7,,OFF,,,,
+"",,Input,0,,I,,,,
+"",,Output,1,,O,,,,
+"",,Reserved,2,,NA,,,,
+"",,SIM1_VPPPP,3,,O,,,,
+C5,PE15,,,Function7,,Z,PU/PD,20,VCC-IO
+"",,Reserved,4,,NA,,,,
+"",,Reserved,5,,NA,,,,
+"",,Reserved,6,,NA,,,,
+"",,IO Disable,7,,OFF,,,,
+GPIOF,,,,,,,,,
+"",,Input,0,,I,,,,
+"",,Output,1,,O,,,,
+"",,SDC0_D1,2,,I/O,,,,
+"",,JTAG_MS,3,,I,,,,
+D19,PF0,,,Function7,,Z,PU/PD,20,VCC-IO
+"",,Reserved,4,,NA,,,,
+"",,Reserved,5,,NA,,,,
+"",,PF_EINT0,6,,I,,,,
+"",,IO Disable,7,,OFF,,,,
+"",,Input,0,,I,,,,
+"",,Output,1,,O,,,,
+"",,SDC0_D0,2,,I/O,,,,
+"",,JTAG_DI,3,,I,,,,
+A19,PF1,,,Function7,,Z,PU/PD,20,VCC-IO
+"",,Reserved,4,,NA,,,,
+"",,Reserved,5,,NA,,,,
+"",,PF_EINT1,6,,I,,,,
+"",,IO Disable,7,,OFF,,,,
+"",,Input,0,,I,,,,
+"",,Output,1,,O,,,,
+"",,SDC0_CLK,2,,O,,,,
+"",,UART0_TX,3,,O,,,,
+D20,PF2,,,Function7,,Z,PU/PD,20,VCC-IO
+"",,Reserved,4,,NA,,,,
+"",,Reserved,5,,NA,,,,
+"",,PF_EINT2,6,,I,,,,
+"",,IO Disable,7,,OFF,,,,
+"",,Input,0,,I,,,,
+"",,Output,1,,O,,,,
+"",,SDC0_CMD,2,,I/O,,,,
+"",,JTAG_DO,3,,O,,,,
+F18,PF3,,,Function7,,Z,PU/PD,20,VCC-IO
+"",,Reserved,4,,NA,,,,
+"",,Reserved,5,,NA,,,,
+"",,PF_EINT3,6,,I,,,,
+"",,IO Disable,7,,OFF,,,,
+"",,Input,0,,I,,,,
+"",,Output,1,,O,,,,
+"",,SDC0_D3,2,,I/O,,,,
+"",,UART0_RX,3,,I,,,,
+E21,PF4,,,Function7,,Z,PU/PD,20,VCC-IO
+"",,Reserved,4,,NA,,,,
+"",,Reserved,5,,NA,,,,
+"",,PF_EINT4,6,,I,,,,
+"",,IO Disable,7,,OFF,,,,
+"",,Input,0,,I,,,,
+C20,PF5,,,Function7,,Z,PU/PD,20,VCC-IO
+"",,Output,1,,O,,,,
+"",,,,,,,,,
+"",,SDC0_D2,2,,I/O,,,,
+"",,JTAG_CK,3,I,,,,,,
+"",,Reserved,4,NA,,,,,,
+"",,Reserved,5,NA,,,,,,
+"",,PF_EINT5,6,I,,,,,,
+"",,IO Disable,7,OFF,,,,,,
+G18,PF6,Input,0,Function7,I,Z,PU/PD,20,VCC-IO
+"",,Output,1,O,,,,,,
+"",,Reserved,2,NA,,,,,,
+"",,Reserved,3,NA,,,,,,
+"",,Reserved,4,NA,,,,,,
+"",,Reserved,5,NA,,,,,,
+"",,PF_EINT6,6,I,,,,,,
+"",,IO Disable,7,OFF,,,,,,
+GPIOG,,,,,,,,,
+J3,PG0,Input,0,Function7,I,Z,PU/PD,20,VCC-PG
+"",,Output,1,O,,,,,,
+"",,SDC1_CLK,2,O,,,,,,
+"",,Reserved,3,NA,,,,,,
+"",,Reserved,4,NA,,,,,,
+"",,Reserved,5,NA,,,,,,
+"",,PG_EINT0,6,I,,,,,,
+"",,IO Disable,7,OFF,,,,,,
+L2,PG1,Input,0,Function7,I,Z,PU/PD,20,VCC-PG
+"",,Output,1,O,,,,,,
+"",,SDC1_CMD,2,I/O,,,,,,
+"",,Reserved,3,NA,,,,,,
+"",,Reserved,4,NA,,,,,,
+"",,Reserved,5,NA,,,,,,
+"",,PG_EINT1,6,I,,,,,,
+"",,IO Disable,7,OFF,,,,,,
+H4,PG2,Input,0,Function7,I,Z,PU/PD,20,VCC-PG
+"",,Output,1,O,,,,,,
+"",,SDC1_D0,2,I/O,,,,,,
+"",,Reserved,3,NA,,,,,,
+"",,Reserved,4,NA,,,,,,
+"",,Reserved,5,NA,,,,,,
+"",,PG_EINT2,6,I,,,,,,
+"",,IO Disable,7,OFF,,,,,,
+F3,PG3,Input,0,Function7,I,Z,PU/PD,20,VCC-PG
+"",,Output,1,O,,,,,,
+"",,SDC1_D1,2,I/O,,,,,,
+"",,Reserved,3,NA,,,,,,
+"",,Reserved,4,NA,,,,,,
+"",,Reserved,5,NA,,,,,,
+"",,PG_EINT3,6,I,,,,,,
+"",,IO Disable,7,OFF,,,,,,
+C2,PG4,Input,0,Function7,I,Z,PU/PD,20,VCC-PG
+"",,Output,1,O,,,,,,
+"",,SDC1_D2,2,I/O,,,,,,
+"",,Reserved,3,NA,,,,,,
+"",,Reserved,4,NA,,,,,,
+"",,Reserved,5,NA,,,,,,
+"",,PG_EINT4,6,I,,,,,,
+"",,IO Disable,7,OFF,,,,,,
+C1,PG5,Input,0,Function7,I,Z,PU/PD,20,VCC-PG
+Output,1,O,,,,,,,
+SDC1_D3,2,I/O,,,,,,,
+Reserved,3,NA,,,,,,,
+Reserved,4,NA,,,,,,,
+Reserved,5,NA,,,,,,,
+PG_EINT5,6,I,,,,,,,
+"",,IO Disable,7,,OFF,,,,
+"",,Input,0,,I,,,,
+"",,Output,1,,O,,,,
+"",,UART1_TX,2,,O,,,,
+"",,Reserved,3,,NA,,,,
+G4,PG6,,,Function7,,Z,PU/PD,20,VCC-PG
+"",,Reserved,4,,NA,,,,
+"",,Reserved,5,,NA,,,,
+"",,PG_EINT6,6,,I,,,,
+"",,IO Disable,7,,OFF,,,,
+"",,Input,0,,I,,,,
+"",,Output,1,,O,,,,
+"",,UART1_RX,2,,I,,,,
+"",,Reserved,3,,NA,,,,
+D3,PG7,,,Function7,,Z,PU/PD,20,VCC-PG
+"",,Reserved,4,,NA,,,,
+"",,Reserved,5,,NA,,,,
+"",,PG_EINT7,6,,I,,,,
+"",,IO Disable,7,,OFF,,,,
+"",,Input,0,,I,,,,
+"",,Output,1,,O,,,,
+"",,UART1_RTS,2,,O,,,,
+"",,Reserved,3,,NA,,,,
+C3,PG8,,,Function7,,Z,PU/PD,20,VCC-PG
+"",,Reserved,4,,NA,,,,
+"",,Reserved,5,,NA,,,,
+"",,PG_EINT8,6,,I,,,,
+"",,IO Disable,7,,OFF,,,,
+"",,Input,0,,I,,,,
+"",,Output,1,,O,,,,
+"",,UART1_CTS,2,,I,,,,
+"",,Reserved,3,,NA,,,,
+E3,PG9,,,Function7,,Z,PU/PD,20,VCC-PG
+"",,Reserved,4,,NA,,,,
+"",,Reserved,5,,NA,,,,
+"",,PG_EINT9,6,,I,,,,
+"",,IO Disable,7,,OFF,,,,
+"",,Input,0,,I,,,,
+"",,Output,1,,O,,,,
+"",,PCM1_SYNC,2,,I/O,,,,
+"",,Reserved,3,,NA,,,,
+M3,PG10,,,Function7,,Z,PU/PD,20,VCC-PG
+"",,Reserved,4,,NA,,,,
+"",,Reserved,5,,NA,,,,
+"",,PG_EINT10,6,,I,,,,
+"",,IO Disable,7,,OFF,,,,
+"",,Input,0,,I,,,,
+"",,Output,1,,O,,,,
+"",,PCM1_CLK,2,,I/O,,,,
+"",,Reserved,3,,NA,,,,
+D2,PG11,,,Function7,,Z,PU/PD,20,VCC-PG
+"",,Reserved,4,,NA,,,,
+"",,Reserved,5,,NA,,,,
+"",,PG_EINT11,6,,I,,,,
+"",,IO Disable,7,,OFF,,,,
+"",,Input,0,,I,,,,
+"",,Output,1,,O,,,,
+"",,PCM1_DOUT,2,,O,,,,
+"",,Reserved,3,,NA,,,,
+D1,PG12,,,Function7,,Z,PU/PD,20,VCC-PG
+"",,Reserved,4,,NA,,,,
+"",,Reserved,5,,NA,,,,
+"",,PG_EINT12,6,,I,,,,
+"",,IO Disable,7,,OFF,,,,
+"",,Input,0,,I,,,,
+"",,Output,1,,O,,,,
+B1,PG13,PCM1_DIN,2,Function7,I,Z,PU/PD,20,VCC-PG
+"",,Reserved,3,,NA,,,,
+"",,Reserved,4,,NA,,,,
+"",,Reserved,5,,NA,,,,
+"",,PG_EINT13,6,,I,,,,
+"",,IO Disable,7,,OFF,,,,
+H7,VCC-PG,VCC-PG,NA,NA,P,NA,NA,NA,NA
+GPIO L,,,,,,,,,
+"",,Input,0,,I,,,,
+"",,Output,1,,O,,,,
+"",,S_TWI_SCK,2,,I/O,,,,
+"",,Reserved,3,,NA,,,,
+N1,PL0,,,Function7,,PU,PU/PD,20,VCC-RTC
+"",,Reserved,4,,NA,,,,
+"",,Reserved,5,,NA,,,,
+"",,S_PL_EINT0,6,,I,,,,
+"",,IO Disable,7,,OFF,,,,
+"",,Input,0,,I,,,,
+"",,Output,1,,O,,,,
+"",,S_TWI_SDA,2,,I/O,,,,
+"",,Reserved,3,,NA,,,,
+M1,PL1,,,Function7,,PU,PU/PD,20,VCC-RTC
+"",,Reserved,4,,NA,,,,
+"",,Reserved,5,,NA,,,,
+"",,S_PL_EINT1,6,,I,,,,
+"",,IO Disable,7,,OFF,,,,
+"",,Input,0,,I,,,,
+"",,Output,1,,O,,,,
+"",,S_UART_TX,2,,O,,,,
+"",,Reserved,3,,NA,,,,
+P2,PL2,,,Function7,,Z,PU/PD,20,VCC-RTC
+"",,Reserved,4,,NA,,,,
+"",,Reserved,5,,NA,,,,
+"",,S_PL_EINT2,6,,I,,,,
+"",,IO Disable,7,,OFF,,,,
+"",,Input,0,,I,,,,
+"",,Output,1,,O,,,,
+"",,S_UART_RX,2,,I,,,,
+"",,Reserved,3,,NA,,,,
+R1,PL3,,,Function7,,Z,PU/PD,20,VCC-RTC
+"",,Reserved,4,,NA,,,,
+"",,Reserved,5,,NA,,,,
+"",,S_PL_EINT3,6,,I,,,,
+"",,IO Disable,7,,OFF,,,,
+"",,Input,0,,I,,,,
+"",,Output,1,,O,,,,
+"",,S_JTAG_MS,2,,I,,,,
+"",,Reserved,3,,NA,,,,
+N2,PL4,,,Function7,,Z,PU/PD,20,VCC-RTC
+"",,Reserved,4,,NA,,,,
+"",,Reserved,5,,NA,,,,
+"",,S_PL_EINT4,6,,I,,,,
+"",,IO Disable,7,,OFF,,,,
+"",,Input,0,,I,,,,
+"",,Output,1,,O,,,,
+"",,S_JTAG_CK,2,,I,,,,
+"",,Reserved,3,,NA,,,,
+R2,PL5,,,Function7,,Z,PU/PD,20,VCC-RTC
+"",,Reserved,4,,NA,,,,
+"",,Reserved,5,,NA,,,,
+"",,S_PL_EINT5,6,,I,,,,
+"",,IO Disable,7,,OFF,,,,
+"",,Input,0,,I,,,,
+"",,Output,1,,O,,,,
+"",,S_JTAG_DO,2,,O,,,,
+"",,Reserved,3,,NA,,,,
+T4,PL6,,,Function7,,Z,PU/PD,20,VCC-RTC
+"",,Reserved,4,,NA,,,,
+"",,Reserved,5,,NA,,,,
+"",,S_PL_EINT6,6,,I,,,,
+"",,IO Disable,7,,OFF,,,,
+T3,PL7,Input,0,Function7,I,Z,PU/PD,20,VCC-RTC
+"",,,,,,,,,
+"",,Output,1,,O,,,,
+"",,S_JTAG_DI,2,I,,,,,,
+"",,Reserved,3,NA,,,,,,
+"",,Reserved,4,NA,,,,,,
+"",,Reserved,5,NA,,,,,,
+"",,S_PL_EINT7,6,I,,,,,,
+"",,IO Disable,7,OFF,,,,,,
+T2,PL8,Input,0,Function7,I,Z,PU/PD,20,VCC-RTC
+"",,Output,1,O,,,,,,
+"",,Reserved,2,NA,,,,,,
+"",,Reserved,3,NA,,,,,,
+"",,Reserved,4,NA,,,,,,
+"",,Reserved,5,NA,,,,,,
+"",,S_PL_EINT8,6,I,,,,,,
+"",,IO Disable,7,OFF,,,,,,
+M6,PL9,Input,0,Function7,I,Z,PU/PD,20,VCC-RTC
+"",,Output,1,O,,,,,,
+"",,Reserved,2,NA,,,,,,
+"",,Reserved,3,NA,,,,,,
+"",,Reserved,4,NA,,,,,,
+"",,Reserved,5,NA,,,,,,
+"",,S_PL_EINT9,6,I,,,,,,
+"",,IO Disable,7,OFF,,,,,,
+V2,PL10,Input,0,Function7,I,Z,PU/PD,20,VCC-RTC
+"",,Output,1,O,,,,,,
+"",,S_PWM,2,O,,,,,,
+"",,Reserved,3,NA,,,,,,
+"",,Reserved,4,NA,,,,,,
+"",,Reserved,5,NA,,,,,,
+"",,S_PL_EINT10,6,I,,,,,,
+"",,IO Disable,7,OFF,,,,,,
+U2,PL11,Input,0,Function7,I,Z,PU/PD,20,VCC-RTC
+"",,Output,1,O,,,,,,
+"",,S_CIR_RX,2,I,,,,,,
+"",,Reserved,3,NA,,,,,,
+"",,Reserved,4,NA,,,,,,
+"",,Reserved,5,NA,,,,,,
+"",,S_PL_EINT11,6,I,,,,,,
+"",,IO Disable,7,OFF,,,,,,
+System,,,,,,,,,
+AA6,NMI,NMI,NA,NA,I,Z,PU/PD,NA,VCC-RTC
+V6,RESET,RESET,NA,NA,I/O,Z,PU/PD,NA,VCC-RTC
+T5,TEST,TEST,NA,NA,I,PD,PU/PD,NA,VCC-RTC
+W6,UBOOT,UBOOT,NA,NA,I,PU,PU/PD,NA,VCC-RTC
+A1,JTAG-SEL0,JTAG-SEL0,NA,NA,I,PU,PU/PD,NA,VCC-IO
+B2,JTAG-SEL1,JTAG-SEL1,NA,NA,I,PU,PU/PD,NA,VCC-IO
+ADC,,,,,,,,,
+AA5,KEYADC,KEYADC,NA,NA,AI,NA,NA,NA,AVCC
+TV-OUT,,,,,,,,,
+F10,TVOUT,TVOUT,NA,NA,AO,NA,NA,NA,V33-TV
+G9,V33-TV,V33-TV,NA,NA,P,NA,NA,NA,NA
+EPHY,,,,,,,,,
+A2,EPHY-LINK-LED,EPHY-LINK-LED,NA,NA,O,NA,NA,NA,EPHY-VCC
+F7,EPHY-SPD-LED,EPHY-SPD-LED,NA,NA,O,NA,NA,NA,EPHY-VCC
+F6,EPHY-RTX,EPHY-RTX,NA,NA,AI,NA,NA,NA,EPHY-VCC
+A4,EPHY-RXN,EPHY-RXN,NA,NA,A I/O,NA,NA,NA,EPHY-VCC
+B4,EPHY-RXP,EPHY-RXP,NA,NA,A I/O,NA,NA,NA,EPHY-VCC
+A3,EPHY-TXN,EPHY-TXN,NA,NA,A I/O,NA,NA,NA,EPHY-VCC
+B3,EPHY-TXP,EPHY-TXP,NA,NA,A I/O,NA,NA,NA,EPHY-VCC
+G7,EPHY-VCC,EPHY-VCC,NA,NA,P,NA,NA,NA,NA
+F8,EPHY-VDD,EPHY-VDD,NA,NA,P,NA,NA,NA,NA
+HDMI,,,,,,,,,
+"",,,,,,,,,
+G5,HCEC,HCEC,NA,NA,I/O,NA,NA,NA,VCC-HDMI
+M2,HHPD,HHPD,NA,NA,I/O,NA,NA,NA,VCC-HDMI
+H3,HSCL,HSCL,NA,NA,O,NA,NA,NA,VCC-HDMI
+K3,HSDA,HSDA,NA,NA,I/O,NA,NA,NA,VCC-HDMI
+G1,HTX0P,HTX0P,NA,NA,AO,NA,NA,NA,VCC-HDMI
+F1,HTX0N,HTX0N,NA,NA,AO,NA,NA,NA,VCC-HDMI
+H2,HTXIP,HTXIP,NA,NA,AO,NA,NA,NA,VCC-HDMI
+G2,HTX1N,HTX1N,NA,NA,AO,NA,NA,NA,VCC-HDMI
+J1,HTX2P,HTX2P,NA,NA,AO,NA,NA,NA,VCC-HDMI
+J2,HTX2N,HTX2N,NA,NA,AO,NA,NA,NA,VCC-HDMI
+F2,HTXCP,HTXCP,NA,NA,AO,NA,NA,NA,VCC-HDMI
+E2,HTXCN,HTXCN,NA,NA,AO,NA,NA,NA,VCC-HDMI
+J6,HVCC,VCC-HDMI,NA,NA,P,NA,NA,NA,NA
+USB,,,,,,,,,
+B5,USB-DM0,USB-DM0,NA,NA,A I/O,NA,NA,NA,VCC-USB
+A5,USB-DP0,USB-DP0,NA,NA,A I/O,NA,NA,NA,VCC-USB
+B7,USB-DM1,USB-DM1,NA,NA,A I/O,NA,NA,NA,VCC-USB
+B6,USB-DP1,USB-DP1,NA,NA,A I/O,NA,NA,NA,VCC-USB
+A8,USB-DM2,USB-DM2,NA,NA,A I/O,NA,NA,NA,VCC-USB
+A7,USB-DP2,USB-DP2,NA,NA,A I/O,NA,NA,NA,VCC-USB
+B9,USB-DM3,USB-DM3,NA,NA,A I/O,NA,NA,NA,VCC-USB
+B8,USB-DP3,USB-DP3,NA,NA,A I/O,NA,NA,NA,VCC-USB
+G11,VCC-USB,VCC-USB,NA,NA,P,NA,NA,NA,NA
+Audio Codec,,,,,,,,,
+U3,AGND,AGND,NA,NA,G,NA,NA,NA,NA
+V3,AVCC,AVCC,NA,NA,P,NA,NA,NA,NA
+W1,LINEINR,LINEINR,NA,NA,AI,NA,NA,NA,AVCC
+V1,LINEINL,LINEINL,NA,NA,AI,NA,NA,NA,AVCC
+Y3,LINEOUTR,LINEOUTR,NA,NA,AO,NA,NA,NA,AVCC
+AA3,LINEOUTL,LINEOUTL,NA,NA,AO,NA,NA,NA,AVCC
+W3,MBIAS,MBIAS,NA,NA,AO,NA,NA,NA,AVCC
+Y1,MICIN1N,MICIN1N,NA,NA,AI,NA,NA,NA,AVCC
+W2,MICIN1P,MICIN1P,NA,NA,AI,NA,NA,NA,AVCC
+AA2,MICIN2N,MICIN2N,NA,NA,AI,NA,NA,NA,AVCC
+Y2,MICIN2P,MICIN2P,NA,NA,AI,NA,NA,NA,AVCC
+Y4,VRA1,VRA1,NA,NA,AO,NA,NA,NA,AVCC
+W5,VRA2,VRA2,NA,NA,AO,NA,NA,NA,AVCC
+V4,VRP,VRP,NA,NA,AO,NA,NA,NA,AVCC
+Clock,,,,,,,,,
+V5,X32KIN,X32KIN,NA,NA,AI,NA,NA,NA,VCC-RTC
+U4,X32KOUT,X32KOUT,NA,NA,AO,NA,NA,NA,VCC-RTC
+P3,X32KFOUT,X32KFOUT,NA,NA,AOD,NA,NA,NA,VCC-RTC
+M4,RTC-VIO,RTC-VIO,NA,NA,AO,NA,NA,NA,VCC-RTC
+K6,VCC-RTC,VCC-RTC,NA,NA,P,NA,NA,NA,NA
+K2,X24MIN,X24MIN,NA,NA,AI,NA,NA,NA,VCC-PLL
+K1,X24MOUT,X24MOUT,NA,NA,AO,NA,NA,NA,VCC-PLL
+K4,X24MFOUT,X24MFOUT,NA,NA,AOD,NA,NA,NA,VCC-RTC
+L5,PLLTEST,PLLTEST,NA,NA,AOD,NA,NA,NA,VCC-PLL
+N3,VCC-PLL,VCC-PLL,NA,NA,P,NA,NA,NA,NA
+Efuse,,,,,,,,,
+G10,VDD-EFUSE,VDD-EFUSE,NA,NA,P,NA,NA,NA,NA
+H11,VDD-EFUSEBP,VDD-EFUSEBP,NA,NA,O,NA,NA,NA,NA
+Power,,,,,,,,,
+J12,VDD-GPUFB,VDD-GPUFB,NA,NA,O,NA,NA,NA,NA
+"N8,P6,P7,P8,P9,R6,R7,R8,T6,T7,T8,U6,U9",VDD-CPUX,VDD-CPU,NA,NA,P,NA,NA,NA,NA
+"J7,J8",VDD-CPUS,VDD-CPU,NA,NA,P,NA,NA,NA,NA
+"H10,J10,J11,K10,K11,K12,L10,L11,L12,L13,L14",VDD-SYS,VDD-SYS,NA,NA,P,NA,NA,NA,NA
+"G13,G14,H13,H14,J14",VCC-IO,VCC-IO,NA,NA,P,NA,NA,NA,NA
+Ground,,,,,,,,,
+"A21,AA1,G8,H12,",,,,,,,,,
+"H15,H8,J13,J16,J9",,,,,,,,,
+",K13,K14,K15,K16",,,,,,,,,
+",K7,K8,K9,L15,L8,",,,,,,,,,
+"L9,M10,M11,M12",,,,,,,,,
+",M13,M14,M15,",,,,,,,,,
+"M5,M7,M8,M9,",GND,GND,NA,NA,G,NA,NA,NA,NA
+"N10,N11,N12,",,,,,,,,,
+"N13,N14,N15,N7,",,,,,,,,,
+"N9,P10,P11,P12,",,,,,,,,,
+"P13,P14,P15,R10,",,,,,,,,,
+"R11,R12,R13,R14,",,,,,,,,,
+"R9,T11,T9",,,,,,,,,
